@@ -1,4 +1,4 @@
 brn1
 
 checking things after stashed
-mergeconf 1
+checking merge conf 1
